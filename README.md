@@ -1,16 +1,16 @@
 # Movie_Recommendation_system
 
-# 🎬 Movie Recommendation System
+#  Movie Recommendation System
 
-## 📌 Overview
+##  Overview
 
 An AI-powered **Movie Recommendation System** that recommends movies based on a user's recently watched movies. The project uses NLP techniques to understand movie information and find similar movies.
 
-## 🎯 Objective
+##  Objective
 
 To build a personalized recommendation system and compare different NLP-based approaches to identify the model that provides better recommendations.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas & NumPy
@@ -21,7 +21,7 @@ To build a personalized recommendation system and compare different NLP-based ap
 * Cosine Similarity
 * Gradio
 
-## 🔄 Workflow
+##  Workflow
 
 1. Load and preprocess movie data
 2. Combine movie title, genres, and overview
@@ -32,7 +32,7 @@ To build a personalized recommendation system and compare different NLP-based ap
 7. Evaluate and compare model performance
 8. Display recommendations using Gradio
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model                | Success Rate |
 | -------------------- | -----------: |
@@ -40,7 +40,7 @@ To build a personalized recommendation system and compare different NLP-based ap
 | Word2Vec             |       22.70% |
 | Sentence Transformer |   **64.75%** |
 
-## 🚀 Result
+##  Result
 
 The **Sentence Transformer** model performed best with a **64.75% success rate**, providing more relevant recommendations compared with the other approaches.
 
